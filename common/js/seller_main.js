@@ -190,16 +190,16 @@ $(document).ready(function(){
     $('.slideWrap').slick({
 		slidesToShow: 1,
 		slidesToScroll: 1,
-        prevArrow:'<div class="slideBtn slidePrev"><img src="/common/images/common/prevBtn.png"></div>',
-        nextArrow:'<div class="slideBtn slideNext"><img src="/common/images/common/nextBtn.png"></div>'
+        prevArrow:'<div class="slideBtn slidePrev"><img src="../common/images/common/prevBtn.png"></div>',
+        nextArrow:'<div class="slideBtn slideNext"><img src="../common/images/common/nextBtn.png"></div>'
 	});
 
     
     $('.iphoneList').slick({
 		slidesToShow: 1,
 		slidesToScroll: 1,
-        prevArrow:'<div class="slideBtn slidePrev"><img src="/common/images/common/prevBtn.png"></div>',
-        nextArrow:'<div class="slideBtn slideNext"><img src="/common/images/common/nextBtn.png"></div>'
+        prevArrow:'<div class="slideBtn slidePrev"><img src="../common/images/common/prevBtn.png"></div>',
+        nextArrow:'<div class="slideBtn slideNext"><img src="../common/images/common/nextBtn.png"></div>'
 	});
     
     
@@ -209,8 +209,8 @@ $(document).ready(function(){
 		slidesToScroll: 1,
         autoplay: true,
         dots: true,
-        prevArrow:'<div class="slideBtn slidePrev"><img src="/common/images/common/prevBtn.png"></div>',
-        nextArrow:'<div class="slideBtn slideNext"><img src="/common/images/common/nextBtn.png"></div>'
+        prevArrow:'<div class="slideBtn slidePrev"><img src="../common/images/common/prevBtn.png"></div>',
+        nextArrow:'<div class="slideBtn slideNext"><img src="../common/images/common/nextBtn.png"></div>'
 	});
     
     
