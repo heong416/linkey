@@ -44,8 +44,8 @@ $(document).ready(function(){
 		slidesToShow: 1,
 		slidesToScroll: 1,
         dots: true,
-        prevArrow:'<div class="slideBtn slidePrev"><img src="/common/images/common/prevBtn.png"></div>',
-        nextArrow:'<div class="slideBtn slideNext"><img src="/common/images/common/nextBtn.png"></div>'
+        prevArrow:'<div class="slideBtn slidePrev"><img src="../common/images/common/prevBtn.png"></div>',
+        nextArrow:'<div class="slideBtn slideNext"><img src="../common/images/common/nextBtn.png"></div>'
 	});
     
     $('.searchList').slick({
@@ -53,16 +53,16 @@ $(document).ready(function(){
 		slidesToScroll: 1,
         dots: true,
         autoplay: true,
-        prevArrow:'<div class="slideBtn slidePrev"><img src="/common/images/common/prevBtn.png"></div>',
-        nextArrow:'<div class="slideBtn slideNext"><img src="/common/images/common/nextBtn.png"></div>'
+        prevArrow:'<div class="slideBtn slidePrev"><img src="../common/images/common/prevBtn.png"></div>',
+        nextArrow:'<div class="slideBtn slideNext"><img src="../common/images/common/nextBtn.png"></div>'
 	});
     
      $('.mCon05IphoneList').slick({
 		slidesToShow: 1,
 		slidesToScroll: 1,
         dots: true,
-        prevArrow:'<div class="slideBtn slidePrev"><img src="/common/images/common/prevBtn.png"></div>',
-        nextArrow:'<div class="slideBtn slideNext"><img src="/common/images/common/nextBtn.png"></div>'
+        prevArrow:'<div class="slideBtn slidePrev"><img src="../common/images/common/prevBtn.png"></div>',
+        nextArrow:'<div class="slideBtn slideNext"><img src="../common/images/common/nextBtn.png"></div>'
 	});
     
     
@@ -71,8 +71,8 @@ $(document).ready(function(){
      $('.slideWrap').slick({
 		slidesToShow: 1,
 		slidesToScroll: 1,
-        prevArrow:'<div class="slideBtn slidePrev"><img src="/common/images/common/prevBtn.png"></div>',
-        nextArrow:'<div class="slideBtn slideNext"><img src="/common/images/common/nextBtn.png"></div>'
+        prevArrow:'<div class="slideBtn slidePrev"><img src="../common/images/common/prevBtn.png"></div>',
+        nextArrow:'<div class="slideBtn slideNext"><img src="../common/images/common/nextBtn.png"></div>'
 	});
     
     
